@@ -1,0 +1,2 @@
+python CrimeObjectDetection.py
+pause
